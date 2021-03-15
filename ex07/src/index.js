@@ -16,5 +16,5 @@ addFive();
 // Only change code above this line
 module.exports = {
   addThree,
-  addFive
+  addFive,
 };
