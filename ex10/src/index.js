@@ -3,7 +3,7 @@ function mathTest(x, y) {
   // Only change code above this line
   if (x < 0 || y < 0) {
     // Only change code below this line
-    return;
+    return undefined;
     // Only change code above this line
   }
   return Math.round(Math.pow(Math.sqrt(x) + Math.sqrt(y), 2));
